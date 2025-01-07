@@ -1,4 +1,4 @@
-### Sou ex aluno do Rabinson Grings, a partir dele me inspirei a continuar com a programação, mas futuramente quero me tornar um game dev indie.
+### Programador de jogos que busca ser um dev indie
 ##
 <div align="center">
   <a href="https://github.com/RafaelSignorini">
